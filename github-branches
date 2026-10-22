@@ -1,0 +1,4 @@
+RICHA@DESKTOP-JE09GQ5 MINGW64 ~/OneDrive/Desktop/Forkedrepo/mcino-Introduction-to-Git-and-GitHub (bug-fix-typo)
+$ git branch -vv
+* bug-fix-typo 6ea92d9 Fix typo in README
+  main         6ea92d9 [origin/main: ahead 2] Fix typo in README
